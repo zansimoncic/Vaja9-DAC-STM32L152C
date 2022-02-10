@@ -9,3 +9,5 @@ d)   Obkljukajte prosti DAC. Kateri pin se je obarval za DAC pretvorbo oz. izhod
 e)   Pod Configuration DAC-a v Parameter Settings zapišite osnovni dve nastavitvi, ki so privzete za takšno pretvorbo:____output buffer____ ,     ____trigger___.
 
 e)   S pomočjo V-metra preverite napetost na vašem DAC izhodnem pinu (fotografirajte izmerjeno vrednost).Kakšno je odstopanje v mV? _________30mV___________.
+
+Komentar: Naloga deluje po pričakovanjih. Pojavi se rahlo odstopanje. Nastavljena napetost je bila 2.20V, izmerjena pa 2.17V.
