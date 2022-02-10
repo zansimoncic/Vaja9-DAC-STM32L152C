@@ -10,4 +10,4 @@ e)   Pod Configuration DAC-a v Parameter Settings zapišite osnovni dve nastavit
 
 e)   S pomočjo V-metra preverite napetost na vašem DAC izhodnem pinu (fotografirajte izmerjeno vrednost).Kakšno je odstopanje v mV? _________30mV___________.
 
-Komentar: Naloga deluje po pričakovanjih. Pojavi se rahlo odstopanje. Nastavljena napetost je bila 2.20V, izmerjena pa 2.17V.
+Komentar: Naloga deluje brez težav. Pojavi se rahlo odstopanje. Nastavljena napetost je bila 2.20V, izmerjena pa 2.17V.
